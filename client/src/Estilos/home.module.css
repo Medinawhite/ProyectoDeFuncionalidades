@@ -1,0 +1,11 @@
+.ContainerHome{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background: rgb(2,0,36);
+    background: linear-gradient(172deg, rgba(2,0,36,1) 0%, rgba(2,133,184,1) 42%, rgba(10,210,238,1) 100%);
+    width: 100%;
+}
+body{
+    background-color:transparent;
+}

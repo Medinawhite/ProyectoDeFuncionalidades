@@ -1,14 +1,17 @@
 import React from 'react';
-import  Countdowns from './Countdown.js'
-
+import Carousels from './Carousel.js'
+import style from '../Estilos/home.module.css';
 function Home ()  {
 
 
     return (
-        <div>
-            <h1>Hola mundo</h1>
+        <div className={style.ContainerHome}>
+            
+            
+            <Carousels/>
+            
 
-            <Countdowns/>
+            
         </div>
     )
 }

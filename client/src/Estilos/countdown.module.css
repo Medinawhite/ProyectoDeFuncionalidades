@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 772px;
+}
+.container1{
+    align-items: colum;
+    
+    border-radius:7px;
+    height: auto;
+    width: auto;
+}
+
+.count{
+    align-items: center;
+}
